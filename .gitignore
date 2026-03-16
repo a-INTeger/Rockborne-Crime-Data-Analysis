@@ -1,2 +1,5 @@
 *.docx
 Data
+*.drawio
+*.png
+*.tmp
