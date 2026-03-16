@@ -1,5 +1,6 @@
 *.docx
-Data
+Data/Clean/*
+Data/Raw/*
 *.drawio
 *.png
 *.tmp
