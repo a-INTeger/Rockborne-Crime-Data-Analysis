@@ -2,6 +2,7 @@
 This is a project as part of a major crime EDA project as part of Rockborne.
 Github link: https://github.com/a-INTeger/Rockborne-Crime-Data-Analysis
 
+NOTE: Data Folder is not shown in the repository
 ## File structure
 ```
 │   .gitignore
